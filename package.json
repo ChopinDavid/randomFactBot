@@ -1,0 +1,23 @@
+{
+  "name": "randomfactbot",
+  "version": "1.0.0",
+  "description": "A Slack Bot used to generate a random, useless fact.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Chopin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "keywords": {
+      "facts",
+      "heroku"
+  },
+  "engines": {
+      "node": "10.13.0"
+  }
+}
