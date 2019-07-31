@@ -13,10 +13,6 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   },
-  "keywords": {
-      "facts",
-      "heroku"
-  },
   "engines": {
       "node": "10.13.0"
   }
